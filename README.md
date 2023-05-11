@@ -15,3 +15,4 @@
 * PHP 8.1.9
 * Сервер: Apache/2.4.52 (Win64) PHP/8.1.9
 
+![php_gd](https://github.com/NikolaevaN073/task_24.5/assets/103105017/354e0e00-10b9-46e1-87dd-9e6ffad941a6)
